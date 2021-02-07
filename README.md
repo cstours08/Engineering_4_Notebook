@@ -4,7 +4,7 @@ Location for Engineering 4 progress and such for the year.
 ## This Page Includes
 
 ### Raspberry Pi Assignments
-<details open>
+<details closed>
 <summary>Hello Raspberry Pi</summary>
 <br>
 
