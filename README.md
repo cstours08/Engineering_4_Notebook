@@ -27,4 +27,19 @@ For this assignment we watched a video instructing us on the basics of using a r
 ### Links
 [Download the code I wrote here](https://github.com/cstours08/Engineering_4_Notebook/blob/main/Python/hello%20World)
 </details>
+<details closed>
+<summary>Quadratic Solver</summary>
+<br>
+details of the thing
+</details>
+<details closed>
+<summary>Calculator</summary>
+<br>
+details of the thing
+</details>
+<details closed>
+<summary>Next thing</summary>
+<br>
+details of the thing
+</details>
 </details>
