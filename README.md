@@ -4,8 +4,9 @@ Location for Engineering 4 progress and such for the year.
 ## This Page Includes
 
 ### Raspberry Pi Assignments
-
--[Hello Raspberry Pi](#Hello-Raspberry-Pi)
+<details open>
+<summary>Hello Raspberry Pi</summary>
+<br>
 
 # Hello Raspberry Pi
 
@@ -23,3 +24,4 @@ For this assignment we watched a video instructing us on the basics of using a r
 
 ### Links
 [Download the code I wrote here](https://github.com/cstours08/Engineering_4_Notebook/blob/main/Python/hello%20World)
+</details>
